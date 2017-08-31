@@ -1,0 +1,8 @@
+Date, snowfall, basedepth, newsnow, oldsnow
+Jan 11, 2016, 2 in., 2 in., 8 in.
+Jan 12, 2016, 3 in., 5 in., 8 in.
+Feb  9, 2016, 3 in., 8 in., 18 in.
+Feb 16, 2016, 1 in., 9 in., 18 in.
+Feb 17, 2016, 1 in., 10 in., 18 in.
+Feb 25, 2016, 9 in., 19 in., 18 in.
+Mar  2, 2016, 10 in., 29 in., 18 in.
