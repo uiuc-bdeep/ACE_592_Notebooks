@@ -1,5 +1,8 @@
 # R Training Notebooks
 
+Update: the file is saved at netshare project folder.
+
+
 These notebooks were from the CyberGIS Workshop called [R on ROGER](https://wiki.cigi.illinois.edu/pages/viewpage.action?pageId=12386419), last held 11-09-16.
 
 deleted:    Lab_4_Multi-Core_Processing_in_R/United_States_Daily.rds	
